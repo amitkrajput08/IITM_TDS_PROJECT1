@@ -3,8 +3,8 @@
 
 
 
-1. `users.csv`: Contains information about 425 GitHub users in Hyderabad with over 50 followers
-2. `repositories.csv`: Contains information about 29750 public repositories from these users
+1. `users.csv`: Contains information about 505 GitHub users in Hyderabad with over 50 followers
+2. `repositories.csv`: Contains information about 36203 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
 
 ## Data Collection
