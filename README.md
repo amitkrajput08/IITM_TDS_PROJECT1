@@ -11,5 +11,5 @@
 
 - Data collected using GitHub API
 - Date of collection: 2024-10-30
-- Only included users with 100+ followers
+- Only included users with 50+ followers
 - Up to 500 most recently pushed repositories per user
