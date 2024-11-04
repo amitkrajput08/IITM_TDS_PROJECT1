@@ -10,7 +10,7 @@
 
 ## Interesting Insight
 
-Key Insights from Data Analysis: Upon analyzing the scraped data, one of the most surprising findings was the correlation between the number of forks and repository longevity. Repositories with higher fork counts tend to show consistent activity and maintenance, which often correlates with longer-term project relevance.
+Key Insights from Data Analysis: Upon analyzing the scraped data, one of the most surprising findings was the correlation between the number of wikis and repository project. Repositories with higher counts tend to show consistent activity and maintenance, which often correlates with longer-term project relevance.
 
 Recommendations for Developers: Developers can increase their project’s visibility by focusing on documentation quality and encouraging contributions from newcomers. Open issues and welcoming contribution guidelines significantly increase engagement rates, leading to a more robust project lifecycle.
 
